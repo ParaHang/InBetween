@@ -1,0 +1,14 @@
+C:\Users\blimbu\source\repos\CardGame\CardGame\bin\Debug\net8.0\CardGame.exe
+C:\Users\blimbu\source\repos\CardGame\CardGame\bin\Debug\net8.0\CardGame.deps.json
+C:\Users\blimbu\source\repos\CardGame\CardGame\bin\Debug\net8.0\CardGame.runtimeconfig.json
+C:\Users\blimbu\source\repos\CardGame\CardGame\bin\Debug\net8.0\CardGame.dll
+C:\Users\blimbu\source\repos\CardGame\CardGame\bin\Debug\net8.0\CardGame.pdb
+C:\Users\blimbu\source\repos\CardGame\CardGame\obj\Debug\net8.0\CardGame.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\blimbu\source\repos\CardGame\CardGame\obj\Debug\net8.0\CardGame.AssemblyInfoInputs.cache
+C:\Users\blimbu\source\repos\CardGame\CardGame\obj\Debug\net8.0\CardGame.AssemblyInfo.cs
+C:\Users\blimbu\source\repos\CardGame\CardGame\obj\Debug\net8.0\CardGame.csproj.CoreCompileInputs.cache
+C:\Users\blimbu\source\repos\CardGame\CardGame\obj\Debug\net8.0\CardGame.dll
+C:\Users\blimbu\source\repos\CardGame\CardGame\obj\Debug\net8.0\refint\CardGame.dll
+C:\Users\blimbu\source\repos\CardGame\CardGame\obj\Debug\net8.0\CardGame.pdb
+C:\Users\blimbu\source\repos\CardGame\CardGame\obj\Debug\net8.0\CardGame.genruntimeconfig.cache
+C:\Users\blimbu\source\repos\CardGame\CardGame\obj\Debug\net8.0\ref\CardGame.dll
